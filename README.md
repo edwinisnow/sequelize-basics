@@ -1,1 +1,1 @@
-# sequelize-tutorial-codecast
+# sequelize
